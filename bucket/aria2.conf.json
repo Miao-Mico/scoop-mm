@@ -1,10 +1,10 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Aria2 configuration file for windows, powered by P3TERX, MM.",
     "homepage": "https://github.com/Miao-Mico/aria2.conf",
     "license": "MIT",
-    "url": "https://github.com/Miao-Mico/aria2.conf/releases/download/0.0.1/aria.conf.7z",
-    "hash": "SHA1: 0AA0B8B0376F3F1C91C8B82C5DA1F7DD254E97D9",
+    "url": "https://github.com/Miao-Mico/aria2.conf/releases/download/0.0.2/aria2.conf.scoop.7z",
+    "hash": "sha1:48E12C5B3725030103BDA94D47D5781B574C8A97",
     "bin": "aria2.vbs",
     "shortcuts": [
         [
@@ -16,6 +16,6 @@
         "github": "https://github.com/Miao-Mico/aria2.conf"
     },
     "autoupdate": {
-        "url": "https://github.com/Miao-Mico/aria2.conf/releases/download/$version/aria.conf.7z"
+        "url": "https://github.com/Miao-Mico/aria2.conf/releases/download/$version/aria2.conf.scoop.7z"
     }
 }
